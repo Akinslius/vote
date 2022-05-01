@@ -118,9 +118,6 @@ if($result){
 
     } 
 
-   
-
-    
 } 
 
 if(!$result){
@@ -146,6 +143,6 @@ if(!$result){
                 </div>
             </div>
         </div>
-    </div>
+</div>
 </body>
 </html>
